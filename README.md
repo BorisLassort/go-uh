@@ -19,7 +19,7 @@ func main() {
 	if err != nil {
 		fmt.Println(err)
 	}
-
+	// Unzip
 	err := uh.Unzip("file.zip", "dir/")
 	if err != nil {
 		fmt.Println(err)

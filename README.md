@@ -1,4 +1,4 @@
-go-uhelpers
+go-uh: Micro Helper
 ===================
 
 Package uhelpers (micro helpers) provides very tiny and simple helpers functions
